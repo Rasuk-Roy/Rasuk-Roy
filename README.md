@@ -1,4 +1,4 @@
-![I am Rasuk-Roy](https://github.com/Rasuk-Roy/Rasuk-Roy/blob/main/code.png)
+![I am Rasuk-Roy](https://github.com/Rasuk-Roy/Rasuk-Roy/blob/main/code-raj.png)
 
 <h1 align="center">Hi 👋, I'm RASUK ROY(Raj)</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
